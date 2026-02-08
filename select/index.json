@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "After Dark",
+  "base_artist": "ASIAN KUNG-FU GENERATION",
+  "createdAt": "2026-02-08T10:49:09.618028Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "After Dark (feat. Static Major & Ty Dolla $ign)",
+      "artist": "Drake feat. Static Major & Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/01_After_Dark_(feat._Static_Major_&_Ty_Dolla_$ign)_Drake_feat._Static_Major_&_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "After Dark (feat. Static Major & Ty Dolla Sign)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/02_After_Dark_(feat._Static_Major_&_Ty_Dolla_Sign)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Only After Dark",
+      "artist": "Mick Ronson",
+      "has_synced": false,
+      "path": "select/03_Only_After_Dark_Mick_Ronson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "After Dark Rituals",
+      "artist": "Lost Outrider feat. Preston Knight",
+      "has_synced": false,
+      "path": "select/04_After_Dark_Rituals_Lost_Outrider_feat._Preston_Knight.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "After Dark Rituals (feat. Preston Knight)",
+      "artist": "Lost Outrider Preston Knight",
+      "has_synced": false,
+      "path": "select/05_After_Dark_Rituals_(feat._Preston_Knight)_Lost_Outrider_Preston_Knight.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "After Dark",
+      "artist": "The Count & Sinden feat. Mystery Jets",
+      "has_synced": false,
+      "path": "select/06_After_Dark_The_Count_&_Sinden_feat._Mystery_Jets.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sunglasses After Dark",
+      "artist": "The Cramps",
+      "has_synced": true,
+      "path": "select/07_Sunglasses_After_Dark_The_Cramps.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "After Dark",
+      "artist": "Delta Sleep",
+      "has_synced": true,
+      "path": "select/08_After_Dark_Delta_Sleep.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Only After Dark",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/09_Only_After_Dark_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Only After Dark - 2003 - Remaster",
+      "artist": "The Human League",
+      "has_synced": true,
+      "path": "select/10_Only_After_Dark_-_2003_-_Remaster_The_Human_League.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "After Dark",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/11_After_Dark_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "After Dark",
+      "artist": "Le Tigre",
+      "has_synced": true,
+      "path": "select/12_After_Dark_Le_Tigre.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "After Dark (Album Version)",
+      "artist": "Le Tigre",
+      "has_synced": true,
+      "path": "select/13_After_Dark_(Album_Version)_Le_Tigre.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Electric Head, Pt. 2 (Sexational After Dark Mix)",
+      "artist": "White Zombie",
+      "has_synced": true,
+      "path": "select/14_Electric_Head,_Pt._2_(Sexational_After_Dark_Mix)_White_Zombie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "After Dark",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/15_After_Dark_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's After Dark",
+      "artist": "D-A-D",
+      "has_synced": false,
+      "path": "select/16_It's_After_Dark_D-A-D.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "After Dark",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/pl_01_After_Dark_ASIAN_KUNG-FU_GENERATION.txt"
+    }
+  ]
+}
